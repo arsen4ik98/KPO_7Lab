@@ -1,0 +1,21 @@
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\bin\Debug\KPOlab7.exe.config
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\bin\Debug\KPOlab7.exe
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\bin\Debug\KPOlab7.pdb
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\obj\Debug\KPOlab7.csprojResolveAssemblyReference.cache
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\obj\Debug\KPOlab7.Form1.resources
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\obj\Debug\KPOlab7.Properties.Resources.resources
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\obj\Debug\KPOlab7.csproj.GenerateResource.Cache
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\obj\Debug\KPOlab7.exe
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\KPOlab7\KPOlab7\obj\Debug\KPOlab7.pdb
+C:\Users\Andrey\Desktop\Documents\Универ\Программирование\КонстрПО\Лабораторные работы\KPOlab7\KPOlab7\bin\Debug\KPOlab7.exe.config
+C:\Users\Andrey\Desktop\Documents\Универ\Программирование\КонстрПО\Лабораторные работы\KPOlab7\KPOlab7\obj\Debug\KPOlab7.exe
+C:\Users\Andrey\Desktop\Documents\Универ\Программирование\КонстрПО\Лабораторные работы\KPOlab7\KPOlab7\obj\Debug\KPOlab7.pdb
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\bin\Debug\KPOlab7.exe.config
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\obj\Debug\KPOlab7.exe
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\obj\Debug\KPOlab7.pdb
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\bin\Debug\KPOlab7.exe
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\bin\Debug\KPOlab7.pdb
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\obj\Debug\KPOlab7.csprojResolveAssemblyReference.cache
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\obj\Debug\KPOlab7.Form1.resources
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\obj\Debug\KPOlab7.Properties.Resources.resources
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 7\KPOlab7\obj\Debug\KPOlab7.csproj.GenerateResource.Cache
